@@ -1,0 +1,34 @@
+# Do It Now – Motivation Tracker 🚀
+### *(Ongoing Project)*
+
+A web app that helps users set goals, track progress through a calendar, and stay motivated using daily reminders and gamified ranking.
+
+## 🧠 Concept
+The app is inspired by sticky notes and procrastination challenges — users can log in (Google or guest), set deadlines, and get feedback on how consistent they’ve been.
+
+## ✨ Features
+- Google & Guest login
+- Goal creation with deadlines
+- Calendar progress view
+- Daily motivational reminders
+- Streak and ranking system
+- Progress insights (upcoming)
+
+## 🛠 Tech Stack
+- React + Tailwind CSS
+- Firebase (Auth, Firestore)
+- FullCalendar.js
+
+## 🚧 Status
+Currently building core features (auth & goal calendar).  
+Next up: reminders and ranking system.
+
+## 🧩 Future Plans
+- Mobile-friendly design
+- Push notifications
+- Achievement badges
+
+## 👤 Author
+**Karan Kumar Anand**
+** Devesh Roy**
+
